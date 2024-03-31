@@ -5,3 +5,10 @@
 ## - npm i 
 <br>
 ## - nodemon server.js
+
+
+Run frontend : 
+
+
+npm i
+npm start --prefix ./front
