@@ -1,7 +1,7 @@
 # Multilingual-Voice-Activated-Chatbot
 <br>
-# Run :
+# - Run :
 <br>
-## npm i 
+## - npm i 
 <br>
-## nodemon server.js
+## - nodemon server.js
